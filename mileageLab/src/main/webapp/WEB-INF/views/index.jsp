@@ -9,6 +9,7 @@
 <body>
 
 	<h1><strong>Welcome To Mileage</strong></h1>
+	<a href= "/getmileage-form">Find Mileage</a>
     <h1><strong>Number Numbers Numbers</strong></h1>
 	<a href="/addnumb-form">Add Numbers</a>
 	<a href="/subnumb-form">Subtraction</a>
